@@ -26,7 +26,7 @@
 ![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/variables%20переменные%20данные%20для%20авторизации%20вынесены%20в%20отдельный%20файл.png)
 
 4. Каждая страница описана в формате объекта с локаторами
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
+![image]([https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/locators.png))
 
 ## Локальный запуск тестов (из терминала)
 1. Скачать проект
@@ -36,7 +36,7 @@
 npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 ```
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_cli.png)
+![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/terminal.png)
 
 
 ## Локальный запуск через Cypress UI
@@ -49,7 +49,7 @@ npx cypress run --spec cypress/e2e/lesson_locators.cy.js --browser chrome
 7. Выбрать спеку lesson_locators
 
 Ожидаемый результат: получим отчет о прохождении тестов.
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/Cypress_UI.png)
+![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/cypress%20UI.png)
 
 
 ## Автор
