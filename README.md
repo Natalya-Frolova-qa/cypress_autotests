@@ -17,13 +17,13 @@
 ## Детали реализации
 
 1. baseUrl вынесен в переменные конфига
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/baseUrl.png)
+![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/baseUrl.png)
 
 2. Применение хуков beforeEach и afterEach
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/hooks.png)
+![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/beforeEach%20и%20afterEach.png)
 
 3. Переменные данные для авторизации вынесены в отдельный файл
-![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/user_data.png)
+![image](https://raw.githubusercontent.com/Natalya-Frolova-qa/cypress_autotests/refs/heads/main/variables%20переменные%20данные%20для%20авторизации%20вынесены%20в%20отдельный%20файл.png)
 
 4. Каждая страница описана в формате объекта с локаторами
 ![image](https://raw.githubusercontent.com/German-D/new_cypress/main/static/locators.png)
